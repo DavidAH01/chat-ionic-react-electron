@@ -1,0 +1,27 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.main-grid{
+  width: 100% !important;
+}
+
+.main-grid > ion-row{
+  height: 100vh !important;
+}
+
+.border{
+  border-right: 1px solid rgba(255,255,255,0.1) !important;
+}
+
+.empty-alert{
+  color: white;
+  text-align: center;
+  opacity: 0.6;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
+
+.empty-alert span{
+  color: var(--ion-color-primary);
+}
