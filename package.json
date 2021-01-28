@@ -61,7 +61,7 @@
   "devDependencies": {
     "@capacitor/cli": "2.0.0",
     "concurrently": "^5.1.0",
-    "electron": "^8.2.1",
+    "electron": "^9.4.0",
     "electron-builder": "^22.4.1",
     "wait-on": "^4.0.2"
   },
